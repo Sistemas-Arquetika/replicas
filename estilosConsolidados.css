@@ -1,0 +1,61 @@
+body{
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#main-container{
+    /*margin: 90px 270px;
+    width: 600px;
+    margin: 15px;
+    width: 500px;
+    padding-left: 15px;*/
+}
+
+#encabezadoTabla{
+    background-color: dimgrey;
+}
+
+#presupuesto,#presupuesto1{
+    background-color: darkgrey;
+}
+
+#pagado,#pagado1,#pagado2{
+    background-color: #A7D752;
+}
+
+#cuenta,#cuenta1,#cuenta2{
+    background-color: #70AAF4;
+}
+
+#total,#total1{
+    background-color: #F0A68C;
+}
+
+table{
+    background-color: white;
+    text-align: center;
+    border-collapse: collapse;
+    /*width: 75%;*/
+}
+
+th, td{
+    padding: 13px;
+}
+
+thead{
+    /*background-color: #246355;*/
+    /*border-bottom: solid 5px #0F362D;*/
+    /*color: white;*/
+}
+
+tr:nth-child(even){
+    background-color: #ddd;
+}
+
+h1, h2, h3{
+    text-align: center;
+}
+
+/*tr:hover{
+    background-color: #369681;
+}*/
